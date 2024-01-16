@@ -11,7 +11,7 @@ function IndexPopup() {
       <h2>
         Welcome to your{" "}
         <a href="https://www.plasmo.com" target="_blank">
-          Plasmo
+          Plasmo Tes
         </a>{" "}
         Extension!
       </h2>
